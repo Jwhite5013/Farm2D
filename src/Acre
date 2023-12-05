@@ -6,5 +6,5 @@ private int growDays;
 private boolean growCheck;
 public Acre(String cropType, double sellPrice, double growCropPrice, int growDays){
 this.cropType = cropType;
-this.sellPrice
+this.sellPrice;
 }
