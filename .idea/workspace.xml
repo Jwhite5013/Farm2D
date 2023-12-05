@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25f8d1a0-2394-4ca3-85e0-ac8866c7e85e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acre" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="25f8d1a0-2394-4ca3-85e0-ac8866c7e85e" name="Changes" comment="Start of My Projectt">
+      <change beforePath="$PROJECT_DIR$/src/Acre" beforeDir="false" afterPath="$PROJECT_DIR$/src/Acre" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,21 @@
       <option name="presentableId" value="Default" />
       <updated>1701795649411</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start of My Project">
+      <created>1701796394673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701796394674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start of My Projectt">
+      <created>1701796473903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701796473903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +69,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start of My Project" />
+    <MESSAGE value="Start of My Projectt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start of My Projectt" />
   </component>
 </project>
