@@ -1,0 +1,10 @@
+public class Acre{
+private String cropType;
+private double sellPrice;
+private double growCropPrice;
+private int growDays;
+private boolean growCheck;
+public Acre(String cropType, double sellPrice, double growCropPrice, int growDays){
+this.cropType = cropType;
+this.sellPrice
+}
