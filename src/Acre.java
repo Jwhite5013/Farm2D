@@ -4,11 +4,8 @@ private double sellPrice;
 private double growCropPrice;
 private int growDays;
 private boolean growCheck;
-public Acre(String cropType, double sellPrice, double growCropPrice, int growDays){
+public Acre(String cropType){
 this.cropType = cropType;
-this.sellPrice = sellPrice;
-this.growCropPrice = growCropPrice;
-this.growDays = growDays;
 growCheck = true;
 public Acre(){
 cropType = "No Crop";
@@ -41,6 +38,7 @@ public double income(int days){
 }
 public String toString(){
   String stuff = "";
-  Stuff += "Crop: " + croptype + "\tCost: " + growCropPrice + "\tSell price: " + sellPrice;
+  stuff += "Crop: " + croptype + "\tCost: " + growCropPrice + "\tSell price: " + sellPrice;
+  return stuff;
 }
 }
