@@ -30,8 +30,17 @@ check = false;
 return check;
 }
 public double income(){
-double incom;
-incom =
+double income;
+income = sellPrice - growCropPrice;
+  return income;
 }
-
+public double income(int days){
+  double income;
+  income = (days/growDays)*(sellprice - growCropPrice);
+  return income;
+}
+public String toString(){
+  String stuff = "";
+  Stuff += "Crop: " + croptype + "\tCost: " + growCropPrice + "\tSell price: " + sellPrice;
+}
 }
